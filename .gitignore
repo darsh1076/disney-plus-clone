@@ -13,6 +13,7 @@
 
 # firebase credentials
 /src/firebase.js
+/src/test.js
 
 # misc
 .DS_Store
