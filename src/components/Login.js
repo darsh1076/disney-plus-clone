@@ -57,6 +57,7 @@ const BgImage = styled.div`
 
 const CTA = styled.div`
     max-width: 650px;
+    align-items: center;
     flex-wrap: wrap;
     display: flex;
     flex-direction: column;
