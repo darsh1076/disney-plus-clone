@@ -17,7 +17,7 @@ const Header = (props) => {
         auth.onAuthStateChanged(user => {
             if (user) {
                 setUser(user);
-                navigate('/home');
+                // navigate('/home');
             }
         })
     }, [userName]);
